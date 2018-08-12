@@ -1,6 +1,5 @@
 # Ethnographic Research
-_Defining the what and why of
-human centered problems. _
+*Defining the what and why of human centered problems.*
 
 ## Prompts
 
